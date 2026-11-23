@@ -1,4 +1,4 @@
-# Hi, I'm Haram Javed 👋
+# Hi, I'm Haram Javed 
 
 ### Flutter Developer | Mobile App Development
 
@@ -47,6 +47,7 @@ To grow as a professional Flutter Developer and build scalable, high-quality mob
 ### 📫 Connect With Me
 
 - GitHub: [haram-javed](https://github.com/haram-javed)
+- LinkedIn: [Haram Javed](https://www.linkedin.com/in/haram-javed/)
 
 ---
 
