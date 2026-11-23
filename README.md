@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Haram Javed 👋
 
-<!--
-**haram-javed/haram-javed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Mobile App Development
 
-Here are some ideas to get you started:
+I'm a Flutter Developer passionate about building clean, user-friendly, and professional mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- **Languages:** Dart
+- **Framework:** Flutter
+- **Backend:** Firebase
+- **Database:** Cloud Firestore
+- **Authentication:** Firebase Authentication
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Project
+
+**Pure Harvest – Flutter Shopping App**
+
+A cross-platform shopping application built with Flutter and Firebase.
+
+- User Authentication
+- Product Categories and Details
+- Shopping Cart and Checkout
+- Order History
+- Firebase Integration
+
+[View Project](https://github.com/haram-javed/pure-harvest-flutter-app)
+
+### 🎯 Currently Learning
+
+- REST APIs and JSON
+- Error Handling
+- State Management
+- Professional Flutter App Architecture
+
+### 📫 Connect With Me
+
+- GitHub: [haram-javed](https://github.com/haram-javed)
+
+---
+
+*Always learning, building, and improving.*
