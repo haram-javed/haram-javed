@@ -6,12 +6,17 @@ I'm a Flutter Developer passionate about building clean, user-friendly, and prof
 
 ### 🛠️ Skills & Technologies
 
-- **Languages:** Dart
+- **Programming Language:** Dart
 - **Framework:** Flutter
-- **Backend:** Firebase
-- **Database:** Cloud Firestore
+- **Backend & Database:** Firebase, Cloud Firestore
 - **Authentication:** Firebase Authentication
-- **Tools:** Git, GitHub, VS Code
+- **API Integration:** REST APIs
+- **Data Handling:** JSON
+- **Local Storage:** Shared Preferences
+- **State Management:** Provider
+- **Version Control:** Git & GitHub
+- **Development Tools:** VS Code, Android Studio
+- **UI Development:** Responsive Layouts, Material Design
 
 ### 🚀 Featured Project
 
@@ -27,12 +32,17 @@ A cross-platform shopping application built with Flutter and Firebase.
 
 [View Project](https://github.com/haram-javed/pure-harvest-flutter-app)
 
-### 🎯 Currently Learning
+### 📚 Currently Learning
 
-- REST APIs and JSON
-- Error Handling
-- State Management
-- Professional Flutter App Architecture
+- Advanced REST API Integration
+- JSON Parsing
+- API Error Handling
+- Provider / Riverpod
+
+
+### 🎯 Career Goal
+
+To grow as a professional Flutter Developer and build scalable, high-quality mobile applications.
 
 ### 📫 Connect With Me
 
